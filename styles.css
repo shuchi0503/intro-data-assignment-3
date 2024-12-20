@@ -1,0 +1,22 @@
+styles.css
+h1{
+  text-align: left;
+}
+iframe{
+    frameborder:0;
+    width: 1000px;;
+    height: 800px;
+    background-color: whitesmoke;
+   
+}
+body{
+  background-color: whitesmoke;
+  background-image: linear linear-gradient(to bottom right);
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  text-indent: 100;
+}
+
+div{
+  width: 1000px;
+}
